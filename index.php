@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ambika Patidar's - Autos Database</title>
+<title>Ambika Patidar's - Autos Database a04e8bd0</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
